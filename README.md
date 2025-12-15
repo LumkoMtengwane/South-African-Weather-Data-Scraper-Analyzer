@@ -1,15 +1,15 @@
-# 🌦️ South African Weather Data Scraper & Analyzer
+# South African Weather Data Scraper & Analyzer
 
-## 📌 Project Overview
+## Project Overview
 This project is a Python-based tool that automates the process of **scraping, cleaning, and analyzing weather data** for various cities and provinces in South Africa. Using the `requests` and `BeautifulSoup` libraries, it extracts real-time weather metrics from [WeatherSA](https://www.weathersa.co.za) and stores the processed data in a structured format for easy analysis.
 
 ---
 
-## ✨ Features
-- 🌍 **Multi-City Weather Scraping** – Fetches weather data for multiple South African cities.
-- 📊 **Data Cleaning & Transformation** – Converts raw text into numeric formats for analysis.
-- 💾 **CSV Export** – Saves clean weather data for further visualization and reporting.
-- 🔍 **Key Weather Metrics Extracted:**
+## Features
+-  **Multi-City Weather Scraping** – Fetches weather data for multiple South African cities.
+-  **Data Cleaning & Transformation** – Converts raw text into numeric formats for analysis.
+-  **CSV Export** – Saves clean weather data for further visualization and reporting.
+-  **Key Weather Metrics Extracted:**
   - City & Province
   - Humidity (%)
   - Min & Max Temperatures (°C)
@@ -20,7 +20,7 @@ This project is a Python-based tool that automates the process of **scraping, cl
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python 3
 - **Libraries:**
   - `pandas` → Data manipulation & cleaning
@@ -30,5 +30,8 @@ This project is a Python-based tool that automates the process of **scraping, cl
   - `numpy` → Numerical operations
 
 ---
+👤 Author Lumko Mtengwane
+
+Data Science | Machine Learning | Analytics
 
 
